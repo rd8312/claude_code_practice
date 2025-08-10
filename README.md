@@ -55,3 +55,32 @@
    - `> open it in the browser` 嘗試直接以瀏覽器開啟。
 
 
+
+## Course Notes
+
+### 內容重點
+
+- Claude Code 安裝方式、IDE 整合與常見問題。
+- 課程中使用的範例程式碼與 prompts 連結。
+
+### 相關檔案
+
+- 詳細內容請參考[`COURSENOTES.md`](./COURSENOTES.md)
+
+### 快速安裝指令
+
+```bash
+npm install -g @anthropic-ai/claude-code
+```
+
+### 啟動方式（節錄）
+
+- 終端機切到你的專案資料夾後輸入 `claude`。
+- 在 VS Code 或 Cursor 內建終端輸入 `claude`，外掛會自動安裝。
+
+---
+
+## 參考
+
+- 更多課程筆記、安裝指引與範例連結，請參考 [`COURSENOTES.md`](./COURSENOTES.md)。
+
